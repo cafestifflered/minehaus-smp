@@ -1,0 +1,6 @@
+messages:
+  command:
+    locate-outpost:
+      no-permission: '<red>Please wait a bit before using the horn again!'
+      located: '<yellow>Located the nearest <gold>pillager outpost<yellow> at <gold><outpost>'
+      no-locate: '<red>Could not locate a nearby outpost at your current location!'
